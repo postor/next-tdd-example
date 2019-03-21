@@ -1,0 +1,41 @@
+{
+  "empty": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "noneEmpty": {
+    "total_count": 1,
+    "incomplete_results": false,
+    "items": [
+      {
+        "id": 176690356,
+        "node_id": "MDEwOlJlcG9zaXRvcnkxNzY2OTAzNTY=",
+        "name": "next-tdd-example",
+        "full_name": "postor/next-tdd-example",
+        "private": false,
+        "owner": {
+          "login": "postor",
+          "id": 699002,
+          "node_id": "MDQ6VXNlcjY5OTAwMg==",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/699002?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/postor",
+          "html_url": "https://github.com/postor",
+          "followers_url": "https://api.github.com/users/postor/followers",
+          "following_url": "https://api.github.com/users/postor/following{/other_user}",
+          "gists_url": "https://api.github.com/users/postor/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/postor/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/postor/subscriptions",
+          "organizations_url": "https://api.github.com/users/postor/orgs",
+          "repos_url": "https://api.github.com/users/postor/repos",
+          "events_url": "https://api.github.com/users/postor/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/postor/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/postor/next-tdd-example"
+      }
+    ]
+  }
+}

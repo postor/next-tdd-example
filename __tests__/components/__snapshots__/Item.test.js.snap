@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With React Testing Library Snapshot Should match Snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <a
+      href="https://github.com/postor/next-tdd-example"
+      target="_blank"
+    >
+      postor/next-tdd-example
+    </a>
+    <span>
+      by
+    </span>
+    <a
+      href="https://github.com/postor"
+      target="_blank"
+    >
+      postor
+    </a>
+  </div>
+</DocumentFragment>
+`;

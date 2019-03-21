@@ -1,0 +1,34 @@
+{
+  "name": "next-tdd-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/next-tdd-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/next-tdd-example/issues"
+  },
+  "homepage": "https://github.com/postor/next-tdd-example#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "react-testing-library": "^6.0.1"
+  }
+}
